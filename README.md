@@ -23,15 +23,18 @@
 # Follow Us on Social Media
 
 ## Social Media
-[web3idn.crypto@mail3.me](mailto:web3idn.crypto@mail3.me)
 
-[Website](https://web30.my.id/)
+[Email](mailto:web3idn.crypto@mail3.me)
 
-[Blog](https://dapps.my.id)
+[Newsletters](https://web3idn.substack.com/)
+
+[Website](https://www.web30.my.id/)
 
 [Medium](https://medium.com/@web3id)
 
 [Github](https://github.com/Web3ID)
+
+[Dev.To](https://dev.to/web3id)
 
 [Facebook](https://web.facebook.com/web3id)
 
@@ -41,8 +44,10 @@
 
 [Instagram](https://www.instagram.com/web3id/)
 
-[Channel Telegram](https://t.me/BitsanSecID)
+[LinkedIn](https://www.linkedin.com/company/web3id/)
 
-[Group Telegram](https://t.me/web3_idn_group)
+[Channel Telegram](https://t.me/Web3IDN)
+
+[Group Telegram](https://t.me/Web3IDN_Chat)
 
 [Quora](https://web3id.quora.com/)
