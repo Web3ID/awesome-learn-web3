@@ -12,6 +12,7 @@
 - [pointer](https://www.pointer.gg)
 - [Encode Club](https://www.encode.club)
 - [Moralis Web3](https://moralis.io)
+- [Decade](https://dacade.org)
 
 
 ## Learn Solidity
