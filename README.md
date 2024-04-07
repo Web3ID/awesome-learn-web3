@@ -13,6 +13,7 @@
 - [Encode Club](https://www.encode.club)
 - [Moralis Web3](https://moralis.io)
 - [Decade](https://dacade.org)
+- [Updraft](https://updraft.cyfrin.io/)
 
 
 ## Learn Solidity
@@ -49,6 +50,6 @@
 
 [Channel Telegram](https://t.me/Web3IDN)
 
-[Group Telegram](https://t.me/Web3IDN_Chat)
+[Group Telegram](https://t.me/web3_idn_group)
 
 [Quora](https://web3id.quora.com/)
