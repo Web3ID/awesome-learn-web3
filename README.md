@@ -15,6 +15,9 @@
 - [Decade](https://dacade.org)
 - [Updraft](https://updraft.cyfrin.io/)
 
+### Indonesia 
+- [BlockdevID](https://blockdev.id)
+
 
 ## Learn Solidity
 - [BuidlGuidl](https://buidlguidl.com)
