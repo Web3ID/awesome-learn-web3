@@ -33,7 +33,7 @@
 
 [Newsletters](https://web3idn.substack.com/)
 
-[Website](https://www.web30.my.id/)
+[Website](https://www.w3b.my.id/)
 
 [Medium](https://medium.com/@web3id)
 
