@@ -23,6 +23,7 @@
 ## Learn Solidity
 - [BuidlGuidl](https://buidlguidl.com)
 - [Speed Run Ethereum](https://speedrunethereum.com)
+- [LearnEVM](https://learnevm.com/)
 
 ## Tutorial 
 - [Ethereum](https://ethereum.org/en/developers/tutorials/)
