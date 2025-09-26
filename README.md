@@ -17,7 +17,7 @@
 
 ### Indonesia 
 - [BlockdevID](https://blockdev.id)
-- [Web3IDN](https://w3idn.xyz)
+- [Web3IDN](https://web30.my.id)
 
 
 ## Learn Solidity
