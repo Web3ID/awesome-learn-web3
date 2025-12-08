@@ -16,6 +16,7 @@
 - [Updraft](https://updraft.cyfrin.io/)
 - [Rareskill](https://rareskills.io)
 - [RiseIn](https://www.risein.com)
+- [Blueshift](https://learn.blueshift.gg)
 
 ### Indonesia 
 - [BlockdevID](https://blockdev.id)
