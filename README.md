@@ -15,6 +15,7 @@
 - [Decade](https://dacade.org)
 - [Updraft](https://updraft.cyfrin.io/)
 - [Rareskill](https://rareskills.io)
+- [RiseIn](https://www.risein.com)
 
 ### Indonesia 
 - [BlockdevID](https://blockdev.id)
