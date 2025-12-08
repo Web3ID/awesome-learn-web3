@@ -20,6 +20,7 @@
 
 ### Indonesia 
 - [BlockdevID](https://blockdev.id)
+- [Web3DevJogja](https://t.me/devweb3jogja)
 - [Web3IDN](https://web30.my.id)
 
 
