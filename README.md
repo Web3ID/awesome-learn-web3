@@ -14,6 +14,7 @@
 - [Moralis Web3](https://moralis.io)
 - [Decade](https://dacade.org)
 - [Updraft](https://updraft.cyfrin.io/)
+- [Rareskill](https://rareskills.io)
 
 ### Indonesia 
 - [BlockdevID](https://blockdev.id)
