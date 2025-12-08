@@ -30,6 +30,7 @@
 
 ## Tutorial 
 - [Ethereum](https://ethereum.org/en/developers/tutorials/)
+- [Solana](https://solana.com/id/learn)
 
 
 
